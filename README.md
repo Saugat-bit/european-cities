@@ -77,7 +77,7 @@ european-cities/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/european-cities.git
+git clone https://github.com/Saugat-bit/european-cities.git
 
 # 2. Navigate into the project
 cd european-cities
