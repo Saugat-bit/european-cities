@@ -10,7 +10,7 @@ European Cities Explorer is a responsive React web app that displays a curated l
 
 ## ✨ Live Demo
 
-👉 [View Deployed Site](https://your-deployed-url.com)
+👉 [View Deployed Site](https://european-cities.vercel.app/)
 
 ---
 
